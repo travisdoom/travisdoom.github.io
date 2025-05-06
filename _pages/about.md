@@ -126,8 +126,11 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (UM) in
 
 <H2> Scholarship </H2>
 <dl>
+  test1
 	<dt><u>Peer-reviewed articles and papers</u>
+  test2
 		<ul>
+    test3
 			<li>(C31) K. Timmerman and T. Doom. "Infrastructure for continuous assessment of retained relevant knowledge." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.  (Best Paper)</li>
 			<li>(C30) H. Hu, D. Blank, A. Chan, and T. Doom. "Panel: Teaching to increase diversity and equity in STEM." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.</li>
 			<li>(C29) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Educational methods for inverted-lecture Computer Science classrooms to overcome common barriers to STEM student success." <i>Proceedings of the 2016 IEEE Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT) Conference</i>, Atlanta (GA), August 2016.</li>
