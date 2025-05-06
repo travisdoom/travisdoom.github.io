@@ -22,8 +22,8 @@ repository               : "travisdoom.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Doom.png"
-  name             : "Travis E.W. Doom, PH.D."
+  avatar           : "files/Doom.png"
+  name             : "Travis Doom"
   pronouns         : "he/him/his" # example: "she/her"  
   bio              : "LEO Lecturer III"
   location         : "Ann Arbor, MI"
@@ -41,6 +41,7 @@ author:
   pubmed           : # URL 
   researchgate     : "https://www.researchgate.net/profile/Travis-Doom-2" # URL
   scopus           : # URL
+  test : "https://www.test.com"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
