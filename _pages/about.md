@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
----
-Travis E.W. Doom, PH.D.
-Lecturer III (Effective Fall 2025)
-Department of Electrical Engineering and Computer Science (EECS)
-Division of Computer Science and Engineering (CSE)
-College of Engineering
-University of Michigan, Ann Arbor, MI.
----
+<HR>
+**Travis E.W. Doom, PH.D.** <BR>
+Lecturer III (Effective Fall 2025) <BR>
+Department of Electrical Engineering and Computer Science (EECS) <BR>
+Division of Computer Science and Engineering (CSE) <BR>
+College of Engineering <BR>
+University of Michigan, Ann Arbor, MI. <BR>
+<HR>
 
 <H1> Bio </H1>
 <p>Travis Doom (he/him/his) is Professor and Associate Dean of the College of Engineering & Computer Science at Wright State University (WSU). Dr. Doom joined the faculty at Wright State University (Dayton, OH) in 1998 after receiving his Ph.D. from Michigan State University. At Wright State University, Professor Doom has been privileged to be recognized with many of the highest faculty honors bestowed by Wright State Administration (2020 Fredrick A. White Distinguished Professor of Professional Service, 2018 Trustees Award for Faculty Excellence, 2014 Robert J. Kegerreis Distinguished Professor of Teaching), Students (student-selected teaching awards, 2016-2017 Student Government Association Faculty Member of the year), and Faculty (2019 Faculty Senate Resolution) for his contributions to the University's mission.</p>
@@ -103,20 +103,14 @@ University of Michigan, Ann Arbor, MI.
 </ul>
 
 <H2> Contracts, grants, and licensing agreements </H2>
-<dl>
-	<dt><u><b>In progress</b></u></dt>
-</dl>
-
-<ul>
-	<li>V. Saunders, et al. &quot;Assured Digital Microelectronics Education &amp; Training Ecosystem (ADMETE)&quot;, Assured and Trusted Microelectronics Solutions (ATMS), Air Force Research Laboratory (AFRL), Award Amount: $29,754,899 ($14,543,000).&nbsp; Wright State Subcomponent (co-inv.: V. Saunders (PI), B. Rigling, T. Doom (Technical Lead))&nbsp;amount: ~$8,100,000. Period: September 2020 - December&nbsp;2024.</li>
-	<li>T. Doom, M. Raymer, O. Garcia, D. Krane (inventors). Exclusive license agreement with Forensic Bioinformatic Services, Inc. (licensee) for the use of the Genophiler software and related technology developed at Wright State University, May 2004 - May 2024.</li>
-</ul>
 
 <dl>
 	<dt><u><b>Completed</b></u></dt>
 </dl>
 
 <ul>
+	<li>V. Saunders, et al. &quot;Assured Digital Microelectronics Education &amp; Training Ecosystem (ADMETE)&quot;, Assured and Trusted Microelectronics Solutions (ATMS), Air Force Research Laboratory (AFRL), Award Amount: $29,754,899 ($14,543,000).&nbsp; Wright State Subcomponent (co-inv.: V. Saunders (PI), B. Rigling, T. Doom (Technical Lead))&nbsp;amount: ~$8,100,000. Period: September 2020 - December&nbsp;2024.</li>
+	<li>T. Doom, M. Raymer, O. Garcia, D. Krane (inventors). Exclusive license agreement with Forensic Bioinformatic Services, Inc. (licensee) for the use of the Genophiler software and related technology developed at Wright State University, May 2004 - May 2024.</li>
 	<li>D. Duren, W. Chumlea, T. Doom, R. Rahhas, and R. Sherwood, &quot;Updating Skeletal Maturity Methods for U.S. Children,&quot; DHHS, National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMSD), R01 Award amount: $1,985,815, Period: August 2014 - July 2019.</li>
 	<li>T. Doom (PI), J. Gallagher, and M. Raymer, &quot;Research and development of educational methods for use in inverted-lecture computer science classrooms based on a model of the barriers to student success in STEM,&quot; Association of American Colleges and Universities, Award amount: $299,999, Period: 2014 - 2017.&nbsp;</li>
 	<li>D.L. Duren, E. Ey, R.W. Nahhas, R.J. Sherwood, T. Wischgoll, T.E. Doom, T.N. Hangartner. &quot;FelsXpress: A Semi-Automated Computer Program for Assessment of Skeletal Maturity in Children.&quot; Translational Grant Development Program, Boonshoft School of Medicine. Award amount: $50,000, Period: 2014 - 2015.</li>
@@ -131,7 +125,7 @@ University of Michigan, Ann Arbor, MI.
 
 <H2> Scholarship </H2>
 <dl>
-	<dt><b>&nbsp; &nbsp; &nbsp;<u>Peer-reviewed articles and papers</u></b>
+	<dt><b><u>Peer-reviewed articles and papers</u></b>
 		<ul>
 			<li>(C31) K. Timmerman and T. Doom. &quot;Infrastructure for continuous assessment of retained relevant knowledge.&quot;&nbsp;<i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017. &nbsp;(Best Paper)</li>
 			<li>(C30) H. Hu, D. Blank, A. Chan, and T. Doom. &quot;Panel: Teaching to increase diversity and equity in STEM.&quot;&nbsp;<i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i><span>, Seattle (WA), March 2017.</span></li>
