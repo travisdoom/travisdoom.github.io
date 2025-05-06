@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Homepage: Travis Doom"
 title_separator          : "-"
 name                     : &name "Travis Doom"
-description              : &description "Faculty at the University of Michigan"
+description              : &description "Teaching Faculty, University of Michigan"
 url                      : https://travisdoom.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "travisdoom.github.io"
@@ -22,13 +22,13 @@ repository               : "travisdoom.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Doom.png"
+  name             : "Travis E.W. Doom, PH.D."
   pronouns         : "he/him/his" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "LEO Lecturer III"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
-  uri              : # URL
+  uri              : "https://travisdoom.github.io" # URL
   email            : "tdoom@umich.edu" 
 
   # Academic websites
