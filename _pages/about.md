@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CV: Travis E.W. Doom, PH.D."
+title: "CV: Travis Doom"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,17 +8,20 @@ redirect_from:
 ---
 
 <HR>
+Travis E.W. Doom, PH.D.
 Lecturer III (Effective Fall 2025) <BR>
-Department of Electrical Engineering and Computer Science (EECS) <BR>
 Division of Computer Science and Engineering (CSE) <BR>
+Department of Electrical Engineering and Computer Science (EECS) <BR>
 College of Engineering <BR>
 University of Michigan, Ann Arbor, MI. <BR>
-<HR>
+
 
 <H1> Bio </H1>
+<HR>
+
 Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) in Fall 2025.
 
-<p>Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the College of Engineering & Computer Science at Wright State University (WSU). Dr. Doom joined the faculty at WSU in 1998 after receiving his Ph.D. from Michigan State University.  Professor Doom has been privileged to be recognized with many of the highest faculty honors bestowed by his Professional Society (IEEE-CS 2018 Computer Science and Engineering Teaching Award), Wright State Administration (2020 Fredrick A. White Distinguished Professor of Professional Service, 2018 Trustees Award for Faculty Excellence, 2014 Robert J. Kegerreis Distinguished Professor of Teaching), Students (student-selected teaching awards, 2016-2017 Student Government Association Faculty Member of the year), and Faculty (2019 Faculty Senate Resolution) for his contributions to the University's mission.</p>
+<p>Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the College of Engineering & Computer Science at Wright State University (WSU). Dr. Doom joined the faculty at WSU in 1998 after receiving his Ph.D. from Michigan State University. Professor Doom has been privileged to be recognized with many of the highest faculty honors bestowed by his Professional Society (IEEE-CS 2018 Computer Science and Engineering Teaching Award), Wright State Administration (2020 Fredrick A. White Distinguished Professor of Professional Service, 2018 Trustees Award for Faculty Excellence, 2014 Robert J. Kegerreis Distinguished Professor of Teaching), Students (student-selected teaching awards, 2016-2017 Student Government Association Faculty Member of the year), and Faculty (2019 Faculty Senate Resolution) for his contributions to the University's mission.  In 2025, Dr. Doom anticipates being granted the lifetime rank of Emertius Professor of Computer Science and Engineering at Wright State University.</p>
 
 <p><strong>ON TEACHING</strong>: Dr. Doom would not mind being remembered as someone who spent "too much effort" on his teaching. Dr. Doom is an internationally recognized educator and was awarded the IEEE-CS 2018 Computer Science and Engineering Undergraduate Teaching Award, "for tremendous contributions to Computer Science and Engineering through a balanced career incorporating research, mentoring of students, curriculum and pedagogy development, and service". He has been honored with WSU's top teaching award and the position Robert J. Kegerris Distinguished Professor of Teaching (2014-2017), was awarded an Outstanding Engineers and Scientists' Award (Education) by the Affiliate Societies Council of Dayton (2015), and was a Southern Ohio Council for Higher Education's (SOCHE) awardee for Excellence in Teaching (2014). Dr. Doom served on the Faculty Advisory Board for WSU's Center for Teaching and Learning (2014-2016) and regularly shares teaching techniques developed through formal training activities including the Ohio Teacher's Excellence Program (OTEP, 2001), the National Effective Teaching Institute (NETI, 2002), and AAC&U's Teaching to Increase Diversity and Equity in STEM (TIDES, 2015-2018) programs.  Dr. Doom is a many-time recipient of WSU's student-determined College of Engineering Excellence in Teaching award. Dr. Doom disseminates his educational work through venues including the American Society for Engineering Education (ASEE), the ACM special interest group on computer science education (SIGCSE), IEEE Transactions on Education, and contributions to textbooks. His teaching interests include both undergraduate and graduate STEM courses, particularly undergraduate courses in digital design, computer organization, and computer programming.</p>
 
@@ -178,75 +181,75 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 	<li>(C01) T. Doom, J. White, A. S. Wojcik, and G. Chisholm. "Identifying high-level components in combinational circuits." <em>Proceedings of the IEEE 1998 Great Lakes Symposium on VLSI</em>, February, 1998.</li>
 	</ul>
 
-test2
-	<dt><b>     <u>Book chapters, letters, abstracts, posters, and other notable technical communications</u></b></dt>
-test3
+<dl>
+	<dt><b><u>Book chapters, letters, abstracts, posters, and other notable technical communications</u></b></dt>
+</dl>
 	<dt>
  	<ul>
+	<li>(M29) K. Timmerman and T. Doom. "Barrier interventions to increase retention of underrepresented groups in computer science and engineering".  Poster at the Research on Equity & Sustained Participation in  Engineering, Computing, & Technology conference (RESPECT 2019), Minneapolis, MN, Feb 27, 2019.</li>
+	<li>(M28) K. Mack, K. Winter, K. Soto (Editors). <u>Culturally responsive strategies for reforming STEM higher education:  Turning the TIDES on inequality</u>.  ISBN 9781787434066, Emerald Publishing Limited, Jan 2019. (<a href="https://books.emeraldinsight.com/page/detail/Culturally-Responsive-Strategies-for-Reforming-STEM-Higher-Education/?k=9781787434066" target="_blank">link</a>)</li>
+	<li>(M27) J. Speed, D. Pair, T. Doom, and J. Gallagher. "Teaching and Faculty Development strategies for Promoting Student Engagement and Inclusive Excellence." AAC&amp;U Ohio Project Kaleidoscope 4th Annual Conference: Promoting effective learning in a diverse STEM environment, Alliance, OH, May 19, 2018. (invited)</li>
+	<li>(M26) K. Timmerman and T. Doom. "Infrastructure for continuous assessment of retained relevant knowledge." <i>ACM Inroads</i>, June 2017.  (Best Paper issue)</li>
+	<li>(M25) K. Timmerman, M. Raymer, J. Gallagher, T. Doom. "Effectiveness of Sequenced Inverted-lecture Interventions to STEM Student Success", AAC&amp;U Crossing Boundaries: Transforming STEM Education conference, November, 2015. (Peer reviewed abstract and conference presentation).</li>
+	<li>(M24) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Effectiveness of sequenced inverted-lecture interventions to STEM student success." Poster at the Teaching for Student Success Symposium, Wright State University, August 2015. (Second place winner, best poster award).</li>
+	<li>(M23) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Educational methods for inverted-lecture Computer <span><span>Science classrooms to overcome common barriers to STEM student success."  Ohio-PKAL First Annual Conference: Increasing STEM Student Success in Higher Education, Westerville, OH, May 2015.</li>
+	<li>(M22) D. Krane, V. Bahn, D. Balding, B. Barlow, H. Cash, B. Desportes, P. Deustachio, K. Devlin, T. Doom, I. Dror, S. Ford, C. Funk, J. Gilder, G. Hampikian, K. Inman, A. Jamieson, P. Kent, R. Koppl, I. Kornfield, S. Krimsky, J. Mnookin, L. Mueller, E. Murphy, D. Paoletti, D. Petrov, M. Raymer, D. Risinger, A. Roth, N. Rudin, W. Shields, J. Siegel, M. Slatkin, Y. Song, T. Speed, C. Spiegelman, P. Sullivan, A. Swienton, T. Tarpey, W. Thompson, E. Ungvarsky, and S. Zabell. "Time for DNA Disclosure." Letter in <i>Science</i><span><span>, Vol. 326, pages 1631-1632, December 18, 2009.</span></span></li>
+	<li>(M21) S. Khetarpal, S. Ramachandran, and T. Doom. "A survey of hardware description languages for high level synthesis." Proceedings of the <em>First Annual Ohio Graduate Student Symposium on Computer and Information Science &amp; Engineering</em> (OGSS-CISE 2005), June 10, 2005.</li>
+	<li>(M20) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated classifier optimization with varying similarity measures." Abstract and poster at the <em>ACM Genetic and Evolutionary Computation Conference (GECCO) 2005</em>, April 2005.</li>
+	<li>(M19) D. Krane, T. Doom, L. Mueller, M. Raymer, W. Shields, and W. Thompson. "Commentary on: Budowle B, Shea B, Niezgoda S, Chakraborty R. CODIS STR loci data from 41 sample populations. J Forensic Sci 2001; 46:453-489." Letter in <i>Journal of Forensic Sciences</i>, Vol. 49, No. 6, pgs. 1388-1389, November 2004.</li>
+	<li>(M18) S. Ramachandran, N. Futamura and T. Doom. "Hardware Implementation of a Scalable, Efficient and High Speed lookup Algorithm for IP Routing." Proceedings of the <em>First Annual Ohio Graduate Student Symposium on Computer and Information Science &amp; Engineering</em> (OGSS 2004), June 10, 2004.</li>
+	<li>(M17) D. Krane, M. Raymer, and T. Doom. "An interdisciplinary undergraduate bioinformatics curriculum for biological scientists." Letter in <em>Journal of College Science Teaching</em>, XXXII:296, 2003.</li>
+	<li>(M16) T. Doom, M. Raymer, and D. Krane. "Bioinformatics: Where Biology meets Computer Science." <em>IEEE Potentials</em>, pgs. 24-28, Vol. 23, No. 1, Feb/March 2004.</li>
+	<li>(M15) W. Thompson, S. Ford, T. Doom, M. Raymer, and D. Krane. "Evaluating forensic DNA evidence: Breaking open the black box (how to review electronic data)." <em>The Champion</em>, pgs. 25-28, Vol. XXVII, No. 3, May 2003.</li>
+	<li>(M14) W. Thompson, S. Ford, T. Doom, M. Raymer, and D. Krane. "Evaluating forensic DNA evidence: Essential elements of a competent defense review." <em>The Champion</em>, (cover) pgs. 16-25, Vol. XXVII, No. 3, April 2003. (Note: This article is cited by the Supreme Court of the United States in "District Attorney's Office for the Third Judicial District et al. v. Osborne, October Term 2008.)</li>
+	<li>(M13) T. Doom. Appendix Chapter B.1 "Introduction to Altera MAX+plus II" of <i>D. Givone's </i><u>Digital Principles and Design</u>, McGraw-Hill, 2002.</li>
+	<li>(M12) J. Gilder, M. Raymer, and T. Doom. "PocketMol: A Molecular Visualization Program for the Pocket PC." Abstract and poster at the <em>Symposium on Bioinformatics for Drug-Development</em>, Toledo (OH), November 2001.</li>
+	<li>(M11) M. Peterson, M. Raymer, and T. Doom. "Prediction Enhancement of Protein-Water Binding Conservation through Evolutionary Computation." Abstract and poster at the <em>Symposium on Bioinformatics for Drug-Development</em>, Toledo (OH), November 2001.</li>
+	<li>(M10) D. Sweeney, T. Doom, and M. Raymer. "Profile Combinatorics for Fragment Selection in Comparative Protein Structure Modeling." Abstract and poster at the <em>Symposium on Bioinformatics for Drug-Development</em>, Toledo (OH), November 2001.</li>
+	<li>(M09) K. Velichetii and T. Doom. "A framework for design recovery of digital systems." <em>Proceedings of the On-line Symposium for Electronics Engineers</em>, November 28, 2000.</li>
+	<li>(M08) K. Dowd and C. Severance. <u>High Performance Computing</u>. 2nd Edition, O'Riley &amp; Associates, Inc., 1999. [Dr. Doom is acknowledged for informal contributions to the technical content of this book].</li>
+	<li>(M07) T. Doom, J. White, and A. S. Wojcik. "Design recovery for incomplete combinational Logic." <em>Record of the Argonne/DoD Workshop on Reverse Engineering of Digital Systems</em>, January 1998.</li>
+	<li>(M06) J. White, T. Doom, and A. S. Wojcik. "Candidate subgraph enumeration to facilitate design recovery." <em>Record of the Argonne/DoD Workshop on Reverse Engineering of Digital Systems</em>, January 1998.</li>
+	<li>(M05) T. Doom, J. White, G. Chisholm, and A. S. Wojcik. "The identification of functional components in combinational circuits." Tech. Rep. ANL/DIS/TM-47, Division of Information Science, Argonne National Laboratory, January 1998.</li>
+	<li>(M04) J. White, T. Doom, A. Wojcik, M. Chung, and G. Chisholm. "Candidate subcircuit generation to facilitate identification of high-level components in logic circuits." Tech. Rep. MSUCPS:TR97-48 Department of Computer Science, Michigan State University, December 1997.</li>
+	<li>(M03) A. Wojcik, C. Wey, T. Doom, and J. Samarziya. "An approach to the redesign of digital circuits from partial information." Tech. Rep. MSUCPS:TR97-47 Department of Computer Science, Michigan State University, December 1997.</li>
+	<li>(M02) T. Doom and A. S. Wojcik. "Reengineering from partial specifications through BDD representation of functional constraint." Tech. Rep. MSUCPS:TR97-3, Department of Computer Science, Michigan State University, February 1997.</li>
+	<li>(M01) M. Brehob, T. Doom, R. J. Enbody, S. Moore, W. Moore, R. Sass, and C. Severance. "Beyond RISC - The Post-RISC Architecture." Tech. Rep. MSUCPS:TR96-11, Department of Computer Science, Michigan State University, March 1996.</li>
+	</ul>
 
-			<li>(M29) K. Timmerman and T. Doom. "Barrier interventions to increase retention of underrepresented groups in computer science and engineering".  Poster at the Research on Equity &amp; Sustained Participation in  Engineering, Computing, &amp; Technology conference (RESPECT 2019), Minneapolis, MN, Feb 27, 2019.</li>
-			<li>(M28) K. Mack, K. Winter, K. Soto (Editors). <u>Culturally responsive strategies for reforming STEM higher education:  Turning the TIDES on inequality</u>.  ISBN 9781787434066, Emerald Publishing Limited, Jan 2019. (<a href="https://books.emeraldinsight.com/page/detail/Culturally-Responsive-Strategies-for-Reforming-STEM-Higher-Education/?k=9781787434066" target="_blank">link</a>)</li>
-			<li>(M27) J. Speed, D. Pair, T. Doom, and J. Gallagher. "Teaching and Faculty Development strategies for Promoting Student Engagement and Inclusive Excellence." AAC&amp;U Ohio Project Kaleidoscope 4th Annual Conference: Promoting effective learning in a diverse STEM environment, Alliance, OH, May 19, 2018. (invited)</li>
-			<li>(M26) K. Timmerman and T. Doom. "Infrastructure for continuous assessment of retained relevant knowledge." <i>ACM Inroads</i>, June 2017.  (Best Paper issue)</li>
-			<li>(M25) K. Timmerman, M. Raymer, J. Gallagher, T. Doom. "Effectiveness of Sequenced Inverted-lecture Interventions to STEM Student Success", AAC&amp;U Crossing Boundaries: Transforming STEM Education conference, November, 2015. (Peer reviewed abstract and conference presentation).</li>
-			<li>(M24) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Effectiveness of sequenced inverted-lecture interventions to STEM student success." Poster at the Teaching for Student Success Symposium, Wright State University, August 2015. (Second place winner, best poster award).</li>
-			<li>(M23) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Educational methods for inverted-lecture Computer <span><span>Science classrooms to overcome common barriers to STEM student success."  </span></span><span><span>Ohio-PKAL First Annual Conference: Increasing STEM Student Success in Higher Education, Westerville, </span></span><span><span>OH, May 2015.</span></span></li>
-			<li>(M22) D. Krane, V. Bahn, D. Balding, B. Barlow, H. Cash, B. Desportes, P. Deustachio, K. Devlin, T. Doom, I. Dror, S. Ford, C. Funk, J. Gilder, G. Hampikian, K. Inman, A. Jamieson, P. Kent, R. Koppl, I. Kornfield, S. Krimsky, J. Mnookin, L. Mueller, E. Murphy, D. Paoletti, D. Petrov, M. Raymer, D. Risinger, A. Roth, N. Rudin, W. Shields, J. Siegel, M. Slatkin, Y. Song, T. Speed, C. Spiegelman, P. Sullivan, A. Swienton, T. Tarpey, W. Thompson, E. Ungvarsky, and S. Zabell. "Time for DNA Disclosure." Letter in <i>Science</i><span><span>, Vol. 326, pages 1631-1632, December 18, 2009.</span></span></li>
-			<li>(M21) S. Khetarpal, S. Ramachandran, and T. Doom. "A survey of hardware description languages for high level synthesis." Proceedings of the <em>First Annual Ohio Graduate Student Symposium on Computer and Information Science &amp; Engineering</em> (OGSS-CISE 2005), June 10, 2005.</li>
-			<li>(M20) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated classifier optimization with varying similarity measures." Abstract and poster at the <em>ACM Genetic and Evolutionary Computation Conference (GECCO) 2005</em>, April 2005.</li>
-			<li>(M19) D. Krane, T. Doom, L. Mueller, M. Raymer, W. Shields, and W. Thompson. "Commentary on: Budowle B, Shea B, Niezgoda S, Chakraborty R. CODIS STR loci data from 41 sample populations. J Forensic Sci 2001; 46:453-489." Letter in <i>Journal of Forensic Sciences</i>, Vol. 49, No. 6, pgs. 1388-1389, November 2004.</li>
-			<li>(M18) S. Ramachandran, N. Futamura and T. Doom. "Hardware Implementation of a Scalable, Efficient and High Speed lookup Algorithm for IP Routing." Proceedings of the <em>First Annual Ohio Graduate Student Symposium on Computer and Information Science &amp; Engineering</em> (OGSS 2004), June 10, 2004.</li>
-			<li>(M17) D. Krane, M. Raymer, and T. Doom. "An interdisciplinary undergraduate bioinformatics curriculum for biological scientists." Letter in <em>Journal of College Science Teaching</em>, XXXII:296, 2003.</li>
-			<li>(M16) T. Doom, M. Raymer, and D. Krane. "Bioinformatics: Where Biology meets Computer Science." <em>IEEE Potentials</em>, pgs. 24-28, Vol. 23, No. 1, Feb/March 2004.</li>
-			<li>(M15) W. Thompson, S. Ford, T. Doom, M. Raymer, and D. Krane. "Evaluating forensic DNA evidence: Breaking open the black box (how to review electronic data)." <em>The Champion</em>, pgs. 25-28, Vol. XXVII, No. 3, May 2003.</li>
-			<li>(M14) W. Thompson, S. Ford, T. Doom, M. Raymer, and D. Krane. "Evaluating forensic DNA evidence: Essential elements of a competent defense review." <em>The Champion</em>, (cover) pgs. 16-25, Vol. XXVII, No. 3, April 2003. (Note: This article is cited by the Supreme Court of the United States in "District Attorney's Office for the Third Judicial District et al. v. Osborne, October Term 2008.)</li>
-			<li>(M13) T. Doom. Appendix Chapter B.1 "Introduction to Altera MAX+plus II" of <i>D. Givone's </i><u>Digital Principles and Design</u>, McGraw-Hill, 2002.</li>
-			<li>(M12) J. Gilder, M. Raymer, and T. Doom. "PocketMol: A Molecular Visualization Program for the Pocket PC." Abstract and poster at the <em>Symposium on Bioinformatics for Drug-Development</em>, Toledo (OH), November 2001.</li>
-			<li>(M11) M. Peterson, M. Raymer, and T. Doom. "Prediction Enhancement of Protein-Water Binding Conservation through Evolutionary Computation." Abstract and poster at the <em>Symposium on Bioinformatics for Drug-Development</em>, Toledo (OH), November 2001.</li>
-			<li>(M10) D. Sweeney, T. Doom, and M. Raymer. "Profile Combinatorics for Fragment Selection in Comparative Protein Structure Modeling." Abstract and poster at the <em>Symposium on Bioinformatics for Drug-Development</em>, Toledo (OH), November 2001.</li>
-			<li>(M09) K. Velichetii and T. Doom. "A framework for design recovery of digital systems." <em>Proceedings of the On-line Symposium for Electronics Engineers</em>, November 28, 2000.</li>
-			<li>(M08) K. Dowd and C. Severance. <u>High Performance Computing</u>. 2nd Edition, O'Riley &amp; Associates, Inc., 1999. [Dr. Doom is acknowledged for informal contributions to the technical content of this book].</li>
-			<li>(M07) T. Doom, J. White, and A. S. Wojcik. "Design recovery for incomplete combinational Logic." <em>Record of the Argonne/DoD Workshop on Reverse Engineering of Digital Systems</em>, January 1998.</li>
-			<li>(M06) J. White, T. Doom, and A. S. Wojcik. "Candidate subgraph enumeration to facilitate design recovery." <em>Record of the Argonne/DoD Workshop on Reverse Engineering of Digital Systems</em>, January 1998.</li>
-			<li>(M05) T. Doom, J. White, G. Chisholm, and A. S. Wojcik. "The identification of functional components in combinational circuits." Tech. Rep. ANL/DIS/TM-47, Division of Information Science, Argonne National Laboratory, January 1998.</li>
-			<li>(M04) J. White, T. Doom, A. Wojcik, M. Chung, and G. Chisholm. "Candidate subcircuit generation to facilitate identification of high-level components in logic circuits." Tech. Rep. MSUCPS:TR97-48 Department of Computer Science, Michigan State University, December 1997.</li>
-			<li>(M03) A. Wojcik, C. Wey, T. Doom, and J. Samarziya. "An approach to the redesign of digital circuits from partial information." Tech. Rep. MSUCPS:TR97-47 Department of Computer Science, Michigan State University, December 1997.</li>
-			<li>(M02) T. Doom and A. S. Wojcik. "Reengineering from partial specifications through BDD representation of functional constraint." Tech. Rep. MSUCPS:TR97-3, Department of Computer Science, Michigan State University, February 1997.</li>
-			<li>(M01) M. Brehob, T. Doom, R. J. Enbody, S. Moore, W. Moore, R. Sass, and C. Severance. "Beyond RISC - The Post-RISC Architecture." Tech. Rep. MSUCPS:TR96-11, Department of Computer Science, Michigan State University, March 1996.</li>
-		</ul>
-		<b>Dissertations and theses supervised (as major professor)</b>
+  <dl>
+  <dt><u><b>Dissertations and theses supervised (as major professor)</b></u></dt>
+  </dl>
+	<ul>
+	<li>M. Abel. A solder-defined computer architecture for backdoor and malware resistance. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2022.</li>
+	<li>K. Timmerman. Educational Methods for Inverted-lecture Computer Science and Engineering Classrooms to Overcome Common Barriers to STEM Student Success. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2016. Dr. Timmerman became a faculty member at Xavier University.</li>
+	<li>C. Leong. Pond and Lake Primary Production Calculator. M.S. thesis, Computer Science, Wright State University, 2015.</li>
+	<li>V. Tendulkar. Behavioral signature-based framework for identifying unsatisfiable variable mappings between digital designs. Ph.D. dissertation, Computer Science &amp; Engineering, 2012. Dr. Tenduklar is now a Senior Design Engineer at AMD in San Francisco, CA.</li>
+	<li>D. Gangadharaiah. Patterns of di-peptide usage for gene prediction. M.S. thesis, Computer Engineering, Wright State University, 2010.</li>
+	<li>J. Gilder. Computational methods for the objective review of forensic DNA testing results. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2007. Dr. Gilder became the Director of Analytics and Informatics at IBM/Explorys.</li>
+	<li>S. Ramachandran. Characterization of the Human Genome using ALU repeat elements. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2006. Dr. Ramachandran became a faculty member and the Coordinator of Informatics at Indiana University Southeast.</li>
+	<li>D. Paoletti. Liklihood ratios for the number of contributors to a forensic DNA mixture: A probabilisitic approach. Ph.D. dissertation, Computer Science &amp; Engineering, 2006. Dr. Paoletti became a faculty member at the University of Michigan.</li>
+	<li>P. Athri (co-director). Enhanced QSAR studies using Synthetic Descriptors. M.S. thesis, Computer Science, Wright State University, 2003. </li>
+	<li>S. Anand. Statistical boundaries for recognizing positive selection in mammalian orders using nucleotide substitution rates. M.S. thesis, Computer Science, Wright State University, 2003.</li>
+	<li>J. Gilder. Developing an expert system and discovering new standards for forensic DNA analysis. M.S. thesis, Computer Engineering, Wright State University, 2003. </li>
+	<li>M. Peterson (co-director). EC-facilitated cosine-based Knn classifier optimization as applied to solvation site prediction. M.S. thesis, Computer Science, Wright State University, 2003.</li>
+	<li>C. Leighber. Anti-aliasing signatures: An enhancement for semantic matching. M.S. thesis, Electrical Engineering, Wright State University, 2001.</li>
+	<li>K. K. Velicheti. An iterative algorithm for semantic matching in the design recovery of digital systems. M.S. thesis, Electrical Engineering, Wright State University, 2000. </li>
+	</ul>
 
-		<ul>
-			<li>M. Abel. A solder-defined computer architecture for backdoor and malware resistance. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2022.</li>
-			<li>K. Timmerman. Educational Methods for Inverted-lecture Computer Science and Engineering Classrooms to Overcome Common Barriers to STEM Student Success. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2016. Dr. Timmerman became a faculty member at Xavier University.</li>
-			<li>C. Leong. Pond and Lake Primary Production Calculator. M.S. thesis, Computer Science, Wright State University, 2015.</li>
-			<li>V. Tendulkar. Behavioral signature-based framework for identifying unsatisfiable variable mappings between digital designs. Ph.D. dissertation, Computer Science &amp; Engineering, 2012. Dr. Tenduklar is now a Senior Design Engineer at AMD in San Francisco, CA.</li>
-			<li>D. Gangadharaiah. Patterns of di-peptide usage for gene prediction. M.S. thesis, Computer Engineering, Wright State University, 2010.</li>
-			<li>J. Gilder. Computational methods for the objective review of forensic DNA testing results. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2007. Dr. Gilder became the Director of Analytics and Informatics at IBM/Explorys.</li>
-			<li>S. Ramachandran. Characterization of the Human Genome using ALU repeat elements. Ph.D. dissertation, Computer Science &amp; Engineering, Wright State University, 2006. Dr. Ramachandran became a faculty member and the Coordinator of Informatics at Indiana University Southeast.</li>
-			<li>D. Paoletti. Liklihood ratios for the number of contributors to a forensic DNA mixture: A probabilisitic approach. Ph.D. dissertation, Computer Science &amp; Engineering, 2006. Dr. Paoletti became a faculty member at the University of Michigan.</li>
-			<li>P. Athri (co-director). Enhanced QSAR studies using Synthetic Descriptors. M.S. thesis, Computer Science, Wright State University, 2003. </li>
-			<li>S. Anand. Statistical boundaries for recognizing positive selection in mammalian orders using nucleotide substitution rates. M.S. thesis, Computer Science, Wright State University, 2003.</li>
-			<li>J. Gilder. Developing an expert system and discovering new standards for forensic DNA analysis. M.S. thesis, Computer Engineering, Wright State University, 2003. </li>
-			<li>M. Peterson (co-director). EC-facilitated cosine-based Knn classifier optimization as applied to solvation site prediction. M.S. thesis, Computer Science, Wright State University, 2003.</li>
-			<li>C. Leighber. Anti-aliasing signatures: An enhancement for semantic matching. M.S. thesis, Electrical Engineering, Wright State University, 2001.</li>
-			<li>K. K. Velicheti. An iterative algorithm for semantic matching in the design recovery of digital systems. M.S. thesis, Electrical Engineering, Wright State University, 2000. </li>
-		</ul>
+  <dl>
+  <dt><u><b>Dissertations and theses advised (as committee member)</b></u></dt>
+  </dl>
+  <ul>
+	<li>Ph.D. Dissertation committee for: L. Liu, M. Peterson, P. Anderson, D. Raiford, G. Cooper, D. Sweeny, E. Hieser, A. Herner, F. Wang, X. Yap, S. Kho</li>
+	<li>M.S. Thesis committee for: B. Abiramikumar, H. Botha, D. Bowman, J. Chen, D. Shindel, N. Namratha, J. Akash, R. Flynn, B. Kelly, A. Hanes, M. Harris, B. Jackson, B. Gump, B. James, Y. Zhang, D. Guriev</li>
+</ul>
 
-		<ul>
-			<li>Ph.D. Dissertation committee member for: L. Liu, M. Peterson, P. Anderson, D. Raiford, G. Cooper, D. Sweeny, E. Hieser, A. Herner, F. Wang, X. Yap, S. Kho.</li>
-		</ul>
-
-		<ul>
-			<li>M.S. Thesis committee member for: B. Abiramikumar, H. Botha, D. Bowman, J. Chen, D. Shindel, N. Namratha, J. Akash, R. Flynn, B. Kelly, A. Hanes, M. Harris, B. Jackson, B. Gump, B. James, Y. Zhang, D. Guriev</li>
-		</ul>
-	</dt>
-</dl>
 
 
 <H2>Service</H2>
 <dl>
-	<dt><b>      <u>Noteworthy Projects</u></b></dt>
+	<dt><b><u>Noteworthy Projects</u></b></dt>
 </dl>
 
 <ul>
@@ -266,7 +269,9 @@ test3
 	<li>Academic Advantage Summer Bridge Program Instructor (2000-2019,2023).</li>
 </ul>
 
-<p><b>     <u>University service</u></b></p>
+<dl> 
+	<dt><b><u>University service</u></b></dt>
+</dl>
 
 <ul>
 	<li>Associate Dean, College of Engineering and Computer Science, Wright State University (2019-2025).</li>
@@ -313,7 +318,7 @@ test3
 </ul>
 
 <dl>
-	<dt><b>     <u>Professional service</u></b></dt>
+	<dt><b><u>Professional service</u></b></dt>
 </dl>
 
 <ul>
@@ -325,11 +330,3 @@ test3
 	<li>Journal reviews for IEEE Transactions on Education, IEEE Transactions on Computer-aided Design, Elsevier's Journal of Theoretical Biology, etc.</li>
 	<li>Conference reviewer/committee for IEEE Bioinformatics and Bioengineering, IEEE Great Lakes Symposium on VLSI, IEEE Design Automation Conference.</li>
 </ul>
-
-
-
-
-
-
-
-
