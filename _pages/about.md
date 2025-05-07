@@ -37,11 +37,9 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 - Computer Science / Mathematics (dual major), B.S. (1992); College of Arts & Sciences; Department of Computer Science / Department of Mathematics & Statistics, Bowling Green State University, Bowling Green, OH. 
 
 
-
 ## Work Experience
 - **University of Michigan**, Ann Arbor, MI.
 	- Lecturer III (2025+)
-
 - <b>Wright State University</b>, Dayton, OH.
 	- Frederick A. White Distinguished Professor of Professional Service (2020-2023)
 	- Associate Dean, College of Engineering and Computer Science (2019-2025)
@@ -53,13 +51,10 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 	- Associate Professor of Computer Science and Engineering [with Tenure] (2004-promotion)
 	- Joint appointment, Electrical Engineering (1999-retirement)
 	- Assistant Professor of Computer Science and Engineering (1998-promotion)
-	
 - <b>Argonne National Laboratory</b>, Argonne, IL.
 	- Research Scientist (STA) (1997-1998)
-	
 - <b>Intel Corporation</b>, Hillsboro, OR.
 	- Performance Engineer (STA) (1996)
-	
 - <b>Michigan State University</b>, East Lansing, MI.
 	- Visiting Instructor (1998)
 	- System Administrator (1994-1997)
@@ -67,7 +62,6 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 	- Teaching Assistant (1992-1993)
 	
 ## Awards/Recognition 
-
 - Frederick A. White <a href="https://policy.wright.edu/policy/2040-faculty-awards" rel="nofollow" target="_blank">Distinguished Professor of Professional Service</a>, Wright State University (three-year awarded rank, 2020-2023).
 - <a href="https://www.wright.edu/sites/www.wright.edu/files/uploads/2019/May/meeting/doom_resolution_final_2019_04.pdf" rel="nofollow">Faculty Senate Resolution (Recognition of accomplishment)</a>, Faculty Senate, Wright State University (2019).
 - <a href="https://www.computer.org/web/awards/cse-undergrad-teaching" rel="nofollow" target="_blank">2018 Computer Science and Engineering Undergraduate Teaching Award</a>,IEEE Computer Society (2018).
@@ -85,7 +79,6 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 
 
 ## Professional Affiliations/Memberships
-
 - Accreditation Board for Engineering and Technology (ABET), Program Evaluator - Computing Accreditation Commission (2021+), Program Evaluator - Engineering Accreditation Commission (2022+).
 - Omicron Delta Kappa (OΔK), National Leadership Honor Society (inducted 2018, Honoris Causa).
 - Sigma Phi Delta (ΣΦΔ), International Fraternity of Engineers, Academic/Faculty Adviser, Beta-Zeta Chapter (inducted 2017; Faculty Advisor 2017-2025).
@@ -98,7 +91,6 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 ## Contracts, grants, and licensing agreements 
 
 ### Completed
-
 - V. Saunders, et al. "Assured Digital Microelectronics Education & Training Ecosystem (ADMETE)", Assured and Trusted Microelectronics Solutions (ATMS), Air Force Research Laboratory (AFRL), Award Amount: $29,754,899 ($14,543,000).  Wright State Subcomponent (co-inv.: V. Saunders (PI), B. Rigling, T. Doom (Technical Lead)) amount: ~$8,100,000. Period: September 2020 - December 2024.
 - T. Doom, M. Raymer, O. Garcia, D. Krane (inventors). Exclusive license agreement with Forensic Bioinformatic Services, Inc. (licensee) for the use of the Genophiler software and related technology developed at Wright State University, May 2004 - May 2024.
 - D. Duren, W. Chumlea, T. Doom, R. Rahhas, and R. Sherwood, "Updating Skeletal Maturity Methods for U.S. Children," DHHS, National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMSD), R01 Award amount: $1,985,815, Period: August 2014 - July 2019.
@@ -114,10 +106,8 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 
 
 ## Scholarship 
----
 
 ### Peer-reviewed articles and papers
- 
 - (C31) K. Timmerman and T. Doom. "Infrastructure for continuous assessment of retained relevant knowledge." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.  (Best Paper)
 - (C30) H. Hu, D. Blank, A. Chan, and T. Doom. "Panel: Teaching to increase diversity and equity in STEM." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.
 - (C29) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Educational methods for inverted-lecture Computer Science classrooms to overcome common barriers to STEM student success." <i>Proceedings of the 2016 IEEE Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT) Conference</i>, Atlanta (GA), August 2016.
@@ -165,9 +155,7 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 - (C02) T. Doom, A. S. Wojcik, and M. Chung. "Design recovery for incomplete combinational logic." <em>Proceedings of the IEEE 1999 Great Lakes Symposium on VLSI</em>, March, 1999.
 - (C01) T. Doom, J. White, A. S. Wojcik, and G. Chisholm. "Identifying high-level components in combinational circuits." <em>Proceedings of the IEEE 1998 Great Lakes Symposium on VLSI</em>, February, 1998.
 
-
 ### Book chapters, letters, abstracts, posters, and other notable technical communications
-  
 - (M29) K. Timmerman and T. Doom. "Barrier interventions to increase retention of underrepresented groups in computer science and engineering".  Poster at the Research on Equity & Sustained Participation in  Engineering, Computing, & Technology conference (RESPECT 2019), Minneapolis, MN, Feb 27, 2019.
 - (M28) K. Mack, K. Winter, K. Soto (Editors). <u>Culturally responsive strategies for reforming STEM higher education:  Turning the TIDES on inequality</u>.  ISBN 9781787434066, Emerald Publishing Limited, Jan 2019. (<a href="https://books.emeraldinsight.com/page/detail/Culturally-Responsive-Strategies-for-Reforming-STEM-Higher-Education/?k=9781787434066" target="_blank">link</a>)
 - (M27) J. Speed, D. Pair, T. Doom, and J. Gallagher. "Teaching and Faculty Development strategies for Promoting Student Engagement and Inclusive Excellence." AAC&U Ohio Project Kaleidoscope 4th Annual Conference: Promoting effective learning in a diverse STEM environment, Alliance, OH, May 19, 2018. (invited)
@@ -198,9 +186,7 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 - (M02) T. Doom and A. S. Wojcik. "Reengineering from partial specifications through BDD representation of functional constraint." Tech. Rep. MSUCPS:TR97-3, Department of Computer Science, Michigan State University, February 1997.
 - (M01) M. Brehob, T. Doom, R. J. Enbody, S. Moore, W. Moore, R. Sass, and C. Severance. "Beyond RISC - The Post-RISC Architecture." Tech. Rep. MSUCPS:TR96-11, Department of Computer Science, Michigan State University, March 1996.
 
-
-  ### Dissertations and theses supervised (as major professor)
- 
+### Dissertations and theses supervised (as major professor)
 - M. Abel. A solder-defined computer architecture for backdoor and malware resistance. Ph.D. dissertation, Computer Science & Engineering, Wright State University, 2022.
 - K. Timmerman. Educational Methods for Inverted-lecture Computer Science and Engineering Classrooms to Overcome Common Barriers to STEM Student Success. Ph.D. dissertation, Computer Science & Engineering, Wright State University, 2016. Dr. Timmerman became a faculty member at Xavier University.
 - C. Leong. Pond and Lake Primary Production Calculator. M.S. thesis, Computer Science, Wright State University, 2015.
@@ -216,7 +202,6 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 - C. Leighber. Anti-aliasing signatures: An enhancement for semantic matching. M.S. thesis, Electrical Engineering, Wright State University, 2001.
 - K. K. Velicheti. An iterative algorithm for semantic matching in the design recovery of digital systems. M.S. thesis, Electrical Engineering, Wright State University, 2000. 
 
-
 ### Dissertations and theses advised (as committee member)
 
 - Ph.D. Dissertation committee for: L. Liu, M. Peterson, P. Anderson, D. Raiford, G. Cooper, D. Sweeny, E. Hieser, A. Herner, F. Wang, X. Yap, S. Kho
@@ -226,7 +211,6 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 ## Service
 
 ### Noteworthy Projects
-
 - Faculty Governance Committee, Wright State University (co-chair, 2022-2024)
 - Academic reorganization for the College of Health, Education, and Human Services (Chair, Provost appointment, 2020-2021).
 - ABET accreditation (university/college representative, 2019-2025, successful review 2024; program representative BSCS/BSCE, 2011-2019, successful review 2017).
