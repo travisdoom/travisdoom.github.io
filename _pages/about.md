@@ -52,6 +52,8 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 	- Associate Professor of Computer Science and Engineering [with Tenure] (2004-promotion)
 	- Joint appointment, Electrical Engineering (1999-retirement)
 	- Assistant Professor of Computer Science and Engineering (1998-promotion)
+- **Forensic Bioinformatics**, Dayton, OH.
+	- Senior Systems Engineer (Consulting, co-Founder) (2004+)
 - **Argonne National Laboratory**, Argonne, IL.
 	- Research Scientist (STA) (1997-1998)
 - **Intel Corporation**, Hillsboro, OR.
