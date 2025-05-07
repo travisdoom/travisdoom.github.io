@@ -242,7 +242,7 @@ Prior to joining U-M, Dr. Doom served as Professor and Associate Dean of the Col
 - ad-hoc Faculty Senate Committee on Student Success, Wright State University (Chair, 2011-2012).
 - Academic Advantage Summer Bridge Program Instructor (2000-2019,2023).
 
-###University service
+### University service
 - Associate Dean, College of Engineering and Computer Science, Wright State University (2019-2025).
 - Faculty President and Chair of Faculty Senate, Wright State University (2017-2019).
 - Faculty Vice-President, Wright State University (2016-2017).
