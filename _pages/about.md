@@ -7,17 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-<HR>
-Travis E.W. Doom, PH.D.
-Lecturer III (Effective Fall 2025) <BR>
-Division of Computer Science and Engineering (CSE) <BR>
-Department of Electrical Engineering and Computer Science (EECS) <BR>
-College of Engineering <BR>
-University of Michigan, Ann Arbor, MI. <BR>
 
+---
 
-<H1> Bio </H1>
-<HR>
+**Travis E.W. Doom, PH.D.**<BR>
+Lecturer III (Effective Fall 2025)<BR>
+Division of Computer Science and Engineering (CSE)<BR>
+Department of Electrical Engineering and Computer Science (EECS)<BR>
+College of Engineering<BR>
+University of Michigan, Ann Arbor, MI.<BR>
+
+---
+
+## Bio
+
+---
+
 
 Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) in Fall 2025.
 
@@ -33,7 +38,10 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 
 <p><strong>ON OUTREACH</strong>: In the field of data science, Dr. Doom has served as an expert witness in depositions and in-person for courts ranging from the local to Federal level. The results of his studies on forensic DNA data have been used to promote justice in courts throughout the world. His work/opinions in have been disseminated in a variety of archival venues ranging from those for engineers (IEEE Transactions on Education, IEEE/ACM Transactions on Bioinformatics and Computational Biology), for forensic and data scientists (Journal of Forensic Science, Jurimetrics), for legal advocates (The Champion), and for scientists in general (Science). Dr. Doom is a founding partner of Forensic Bioinformatics Services, Inc. - a company devoted to promoting social justice through the automated and objective evaluation of forensic data.  Dr. Doom also serves as a Program Evaluator for both the Computing Accreditation Commission (CAC) and the Engineering Accreditation Commission (EAC) of ABET.</p>
 
-<H2>Education History</H2>
+## Education History
+
+---
+
 <ul>
 	<li>Computer Science, Ph.D. (1998); College of Engineering, Department of Computer Science and Engineering, Michigan State University, East Lansing, MI. </li>
 	<li>Computer Science, M.S. (1994); College of Engineering, Department of Computer Science, Michigan State University, East Lansing, MI. </li>
@@ -41,7 +49,10 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 </ul>
 
 
-<H2>Work Experience</H2>
+## Work Experience
+
+---
+
 <ul>
 	<li><b>Wright State University</b>, Dayton, OH.
 		<ul>
@@ -77,7 +88,10 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 	</li>
 </ul>
 
-<H2> Awards/Recognition </H2>
+## Awards/Recognition 
+
+---
+
 <ul>
 	<li>Frederick A. White <a href="https://policy.wright.edu/policy/2040-faculty-awards" rel="nofollow" target="_blank">Distinguished Professor of Professional Service</a>, Wright State University (three-year awarded rank, 2020-2023).</li>
 	<li><a href="https://www.wright.edu/sites/www.wright.edu/files/uploads/2019/May/meeting/doom_resolution_final_2019_04.pdf" rel="nofollow">Faculty Senate Resolution (Recognition of accomplishment)</a>, Faculty Senate, Wright State University (2019).</li>
@@ -95,7 +109,10 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 	<li>National Merit Scholar (1988-1992).</li>
 </ul>
 
-<H2>Professional Affiliations/Memberships</H2>
+## Professional Affiliations/Memberships
+
+---
+
 <ul>
 	<li>Accreditation Board for Engineering and Technology (ABET), Program Evaluator - Computing Accrediation Commission (2021+), Program Evaluator - Engineering Accrediation Commission (2022+).</li>
 	<li>Omicron Delta Kappa (OΔK), National Leadership Honor Society (inducted 2018, Honoris Causa).</li>
@@ -106,11 +123,10 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 	<li>IEEE Computer Society (inducted 1998; Senior Member, 2003).</li>
 </ul>
 
-<H2> Contracts, grants, and licensing agreements </H2>
+## Contracts, grants, and licensing agreements 
 
-<dl>
-	<dt><u><b>Completed</b></u></dt>
-</dl>
+---
+### Completed
 
 <ul>
 	<li>V. Saunders, et al. "Assured Digital Microelectronics Education &amp; Training Ecosystem (ADMETE)", Assured and Trusted Microelectronics Solutions (ATMS), Air Force Research Laboratory (AFRL), Award Amount: $29,754,899 ($14,543,000).  Wright State Subcomponent (co-inv.: V. Saunders (PI), B. Rigling, T. Doom (Technical Lead)) amount: ~$8,100,000. Period: September 2020 - December 2024.</li>
@@ -127,59 +143,58 @@ Travis Doom (he/him/his) joins the Faculty at the University of Michigan (U-M) i
 	<li>T. Doom, "Algorithms for functional identification in the reengineering of digital systems," Research Challenge Grant, Wright State University, #663641. Award amount: $25,000. Period: 1999 - 2000.</li>
 </ul>
 
-<H2> Scholarship </H2>
-<dl>
-	<dt><u><b>Peer-reviewed articles and papers</b></u></dt>
-</dl>
-	<dt>
-	<ul>
-	<li>(C31) K. Timmerman and T. Doom. "Infrastructure for continuous assessment of retained relevant knowledge." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.  (Best Paper)</li>
-	<li>(C30) H. Hu, D. Blank, A. Chan, and T. Doom. "Panel: Teaching to increase diversity and equity in STEM." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.</li>
-	<li>(C29) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Educational methods for inverted-lecture Computer Science classrooms to overcome common barriers to STEM student success." <i>Proceedings of the 2016 IEEE Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT) Conference</i>, Atlanta (GA), August 2016.</li>
-	<li>(C28) T. Doom, K. Timmerman, and M. Raymer. "Infrastructure for continuous assessment of retained relevant knowledge." <i>Proceedings of the 2013 American Society for Engineering Education (ASEE) North Central Conference</i>, Columbus (OH), April 2013.</li>
-	<li>(J15) D. Raiford, E. Heizer, R. Miller, T. Doom, M. Raymer, and D. Krane. "Metabolic and translational efficiency in microbial organisms." <i>Journal of Molecular Evolution</i>, DOI 10.1007/s00239-012-9500-9, Volume 3, Issue 3, pp 206-216, 2012.</li>
-	<li>(J14) D. Paoletti, D. Krane, M. Raymer, and T. Doom. "Inferring the number of contributors to mixed DNA profiles." <i>IEEE/ACM Trans. on Bioinformatics and Computational Biology (TCBB)</i>, Volume 9, Number 1, pp 113-122, January/February 2012.</li>
-	<li>(J13) P. Anderson, D. Mahle, T. Doom, N. Reo, N. DelRaso, M. Raymer. "Dynamic adaptive binning: an improved quantification technique for NMR spectroscopic data." <i>Metabolomics</i>, Volume 7, Number 2, pp 179-190, 2011.</li>
-	<li>(J12) D. Raiford, D. Krane, T. Doom, M. Raymer. "A genetic optimization approach for isolating translational efficiency bias." <i>IEEE/ACM Trans. on Bioinformatics and Computational Biology (TCBB)</i>, 8:342-352, March/April 2011.</li>
-	<li>(J11) D. Raiford, D. Krane, T. Doom, and M. Raymer. "Automated isolation of translational efficiency biases that resists the confounding effect of GC(AT)-content." <i>IEEE/ACM Trans. on Bioinformatics and Computational Biology (TCBB)</i>, 7:238-250, 2010.</li>
-	<li>(J10) P. Anderson, M. Raymer, B. Kelly, N. Reo, N. DelRaso, and T. Doom. "Characterization of 1H NMR spectroscopic data and the generation of synthetic validation sets." <i>Bioinformatics</i> 25:2992-3000, November 2009.</li>
-	<li>(C27) P. Anderson, C. Maynard, N. Hodson, B. Kelly, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "A web-based framework for the distribution of bioinformatics techniques: Orthogonal projection on latent structures and principal component analysis implemented as RESTful web services." <i>Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2009</i>, Cleveland (OH), June 2009.</li>
-	<li>(C26) A. Hanes, M. Raymer, T. Doom, and D. Krane. "A comparison of codon usage trends in prokaryotes." <i>Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2009</i>, Cleveland (OH), June 2009.</li>
-	<li>(J09) P. Anderson, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "Gaussian binning: A new kernel-based method for processing NMR spectroscopic data for metabolomics." <i>Metabolomics</i>, 4:3, September, 2008.</li>
-	<li>(C25) S. Ramachandran and T. Doom. "Validation of the Human ALU phylogeny: a whole genome analysis." <i>Proceedings of BIOCOMP'08</i>, Las Vegas, July 2008.</li>
-	<li>(C24) D. Raiford, D. Krane, T. Doom, and M. Raymer. "A multi-objective genetic algorithms that employs a hybrid approach for isolating codon usage bias indicative of translational efficiency." <i>Proceedings of the Seventh IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2007)</i>, pages 278-285, Cambridge (MA), October 2007.</li>
-	<li>(C23) B. Kelly, P. Anderson, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "A proposed statistical protocol for the analysis of metabolic toxicological data derived from NMR spectroscopy." <em>Proceedings of the Seventh IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2007)</em>, pages 1414-1418, Cambridge (MA), October 2007.</li>
-	<li>(C22) B. Kelly, P. Anderson, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "Comparison of statistical techniques for the analysis of metabolic toxicological data derived from NMR spectroscopy." <i>Proceedings of the Ohio Collaborative Conference on Bioinformatics</i> (OCCBIO) 2007, Oxford (OH), July 2007.</li>
-	<li>(J08) J. Gilder, T. Doom, K. Inman, and D. Krane. "Run-specific limits of detection and quantitation for STR-based DNA testing." <em>Journal of Forensic Sciences</em>, January 2007.</li>
-	<li>(C21) S. Ramachandran, T. Doom, M. Raymer, and D. Krane. "Parsimony based approach to test the Evolving Master Gene hypothesis for human ALU repeats." <em>Proceedings of the 6th IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2006)</em>, Washington D.C., October 2006. (Best Original Research Paper Award, also Best Student Paper Award).</li>
-	<li>(C20) D. Raiford, D. Krane, T. Doom, and M. Raymer. "Isolation and visualization of codon usage biases." <em>Proceedings of the 6th IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2006)</em>, pages 179-182, Washington D.C., October 2006.</li>
-	<li>(J07) E. Heizer, D. Raiford, M. Raymer, T. Doom, R. Miller, and D. Krane. "Amino acid cost and codon usage biases in six prokaryotic genomes: A whole genome analysis." <em>Journal of Molecular Biology and Evolution</em>, Vol. 23, No. 9, pp, 1670-1680, September 2006.</li>
-	<li>(C19) D. Raiford, T. Doom, D. Krane, and M. Raymer. "An Investigation of Codon Usage Bias Including Visualization and Quantification in Organisms Exhibiting Multiple Biases". <em>In Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2006</em>, Athens (OH), June 2006.</li>
-	<li>(C18) S. Ramachandran, T. Doom, M. Raymer, and D. Krane. "ALU elements as time series genomic data." <em>In Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2006</em>, Athens (OH), June 2006.</li>
-	<li>(J06) D. Paoletti, T. Doom, M. Raymer, and D. Krane. "Assesing the implications for close relatives in the event of similar but non-matching DNA profiles." <em>Jurimetrics</em>, Vol. 46, No. 2, pp. 161-175, Winter 2006.</li>
-	<li>(C17) P. Anderson, D. Raiford, D. Sweeney, T. Doom, and M. Raymer. "Stochastic model of protease-ligand reactions." <em>Proceedings of the 5th IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2005) </em>, Minneapolis, Minnesota, pp 306-310, October 2005.</li>
-	<li>(J05) D. Paoletti, T. Doom, C. Krane, M. Raymer, and D. Krane. "Empirical Analysis of the STR profiles resulting from conceptual mixtures." <em>Journal of Forensic Sciences</em>, Vol. 50, No. 6, pp. 1361-1366, November 2005.</li>
-	<li>(C16) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated KNN classifier optimization with varying similarity measures." <em>Proceedings of the 2005 IEEE Congress on Evolutionary Computation</em>, vol 3, pp. 2514-2521, 2005.</li>
-	<li>(C15) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated knowledge discovery and pattern recognition optimization applied to the biochemistry of protein solvation." <em> Proceedings of ACM Genetic and Evolutionary Computation Conference (GECCO) 2004</em>, Seattle (WA), pp. 426-437, June 2004.</li>
-	<li>(C14) M. Raymer, M. Peterson and T. Doom. "Knowledge discovery in large biological data sets using hybrid classifier/evolutionary algorithms", <em>Proceedings the 36th Symposium on the Interface: Computational Biology and Bioinformatics</em>, Baltimore, MD, May 26 - 29, 2004.</li>
-	<li>(C13) G. Cooper, M. Raymer, T. Doom, D. Krane, and N. Futamura. "Indexing genomic databases". <em>Proceedings of 2004 IEEE international symposium on Bioinformatics and Bioengineering (BIBE) </em>, Taichung (Taiwan), pp. 587-591, May 2004.</li>
-	<li>(C12) D. Burhans, M. DeJohgh, T. Doom, and M. LeBlanc. "Bioinformatics in the undergraduate curriculum: Opportunities for computer science educators." <em>Proceedings of the ACM Special Interest Group on Computer Science Education (SIGCSE) 2004</em>, Norfolk (VA), March 2004.</li>
-	<li>(J04) J. Gilder, S. Ford, T. Doom, M. Raymer, and D. Krane. "Systematic differences in electropherogram peak heights reported by different version of the Genescan (R) software." <em>Journal of Forensic Sciences</em>, pgs. 92-95, Vol 49, No. 1, January 2004.</li>
-	<li>(J03) M. Raymer, T. Doom, L. Kuhn, and W. Punch. "Knowledge Discovery in Medical and Biological Datasets Using a Hybrid Bayes Classifier/Evolutionary Algorithm." <em>IEEE Transactions on Systems, Man, and Cybernetics</em>, Vol. 33, No. 5, October 2003.</li>
-	<li>(J02) T. Doom, M. Raymer, D. Krane, and O. Garcia. "Crossing the interdisciplinary barrier: A baccalaureate computer science option in bioinformatics." <em>IEEE Transactions on Education</em>, Volume 46, No. 3, pp 387-393, August 2003.</li>
-	<li>(C11) J. Gilder, D. Krane, T. Doom and M. Raymer. "Identifying patterns in DNA change." </span></span><em>Proceedings of the 2003 Midwest Artificial Intelligence and Cognitive Science Conference</em><span><span>, Columbus OH, April 2003.</span></span></li>
-	<li>(J01) J. Gilder, M. Peterson, J. Wright, and T. Doom. "A versatile tool for student projects: An ASM programming language for the LEGO mindstorm." <em>ACM Journal on Educational Resources in Computing (JERIC)</em>, III:1, ISSN: 1531-4278, March 2003.</li>
-	<li>(C10) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated cosine classifer optimization with application to the biochemistry of protein-water interactions." <em>Proceedings of the 6th International Conference/Exhibition on High Performance Computing (HPC-Asia 2002)</em>, Banglore (India), December 2002.</li>
-	<li>(C09) T. Doom, M. Raymer, D. Krane, and O. Garcia. "A proposed undergraduate bioinformatics curriculum for computer scientists." <em>Proceedings of the 2002 ACM Special Interest Group on Computer Science Education (SIGCSE 2002)</em>, Covington (KY), February 2002.</li>
-	<li>(C08) J. Gilder, M. Raymer, and T. Doom. "PocketMol: A Molecular Visualization Tool for the PocketPC." <em>2001 IEEE International Symposium on Bioinformatics and Bioengineering (BIBE 2001)</em>, November 2001.</li>
-	<li>(C07) D. Sweeney, J. Alter, M. Raymer, and T. Doom. "Profile Combinatorics for Fragment Selection in Comparative Modeling." <em>2001 IEEE International Symposium on Bioinformatics and Bioengineering (BIBE 2001)</em>, November 2001.</li>
-	<li>(C06) J. White, M.C. Chung, A. Wojcik, and T. Doom. "Efficient algorithms for subcircuit enumeration and classification." <em>Proceedings of the 2001 IEEE Conference on Computer Design</em>, Austin (TX), September 2001.</li>
-	<li>(C05) C. Leighber and T. Doom. "Using output signatures to enhance semantic matching." <em> Proceedings of the 44th IEEE Midwest Symposium on Circuits and Systems</em>, Dayton (OH), August 2001.</li>
-	<li>(C04) T. Doom and O. Garcia. "Bioinformatics: An option in computer science." <em>Proceedings of the 2001 Midwest Artificial Intelligence and Cognitive Science Conference</em>, March 2001.</li>
-	<li>(C03) J. White, A. S. Wojcik, M. Chung, and T. Doom. "Candidate subcircuits for functional module identification in logic circuits." <em>Proceedings of the 2000 Great Lakes Symposium on VLSI</em>, March, 2000.</li>
-	<li>(C02) T. Doom, A. S. Wojcik, and M. Chung. "Design recovery for incomplete combinational logic." <em>Proceedings of the IEEE 1999 Great Lakes Symposium on VLSI</em>, March, 1999.</li>
-	<li>(C01) T. Doom, J. White, A. S. Wojcik, and G. Chisholm. "Identifying high-level components in combinational circuits." <em>Proceedings of the IEEE 1998 Great Lakes Symposium on VLSI</em>, February, 1998.</li>
-	</ul>
+## Scholarship 
+---
+
+### Peer-reviewed articles and papers
+ 
+- (C31) K. Timmerman and T. Doom. "Infrastructure for continuous assessment of retained relevant knowledge." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.  (Best Paper)</li>
+- (C30) H. Hu, D. Blank, A. Chan, and T. Doom. "Panel: Teaching to increase diversity and equity in STEM." <i>Proceedings of the 2017 ACM Special Interest Group Technical Symposium on Computer Science Education (SIGCSE 2017)</i>, Seattle (WA), March 2017.</li>
+- (C29) K. Timmerman, M. Raymer, J. Gallagher, and T. Doom. "Educational methods for inverted-lecture Computer Science classrooms to overcome common barriers to STEM student success." <i>Proceedings of the 2016 IEEE Research on Equity and Sustained Participation in Engineering, Computing, and Technology (RESPECT) Conference</i>, Atlanta (GA), August 2016.</li>
+- (C28) T. Doom, K. Timmerman, and M. Raymer. "Infrastructure for continuous assessment of retained relevant knowledge." <i>Proceedings of the 2013 American Society for Engineering Education (ASEE) North Central Conference</i>, Columbus (OH), April 2013.</li>
+- (J15) D. Raiford, E. Heizer, R. Miller, T. Doom, M. Raymer, and D. Krane. "Metabolic and translational efficiency in microbial organisms." <i>Journal of Molecular Evolution</i>, DOI 10.1007/s00239-012-9500-9, Volume 3, Issue 3, pp 206-216, 2012.</li>
+- (J14) D. Paoletti, D. Krane, M. Raymer, and T. Doom. "Inferring the number of contributors to mixed DNA profiles." <i>IEEE/ACM Trans. on Bioinformatics and Computational Biology (TCBB)</i>, Volume 9, Number 1, pp 113-122, January/February 2012.</li>
+- (J13) P. Anderson, D. Mahle, T. Doom, N. Reo, N. DelRaso, M. Raymer. "Dynamic adaptive binning: an improved quantification technique for NMR spectroscopic data." <i>Metabolomics</i>, Volume 7, Number 2, pp 179-190, 2011.</li>
+- (J12) D. Raiford, D. Krane, T. Doom, M. Raymer. "A genetic optimization approach for isolating translational efficiency bias." <i>IEEE/ACM Trans. on Bioinformatics and Computational Biology (TCBB)</i>, 8:342-352, March/April 2011.</li>
+- (J11) D. Raiford, D. Krane, T. Doom, and M. Raymer. "Automated isolation of translational efficiency biases that resists the confounding effect of GC(AT)-content." <i>IEEE/ACM Trans. on Bioinformatics and Computational Biology (TCBB)</i>, 7:238-250, 2010.</li>
+- (J10) P. Anderson, M. Raymer, B. Kelly, N. Reo, N. DelRaso, and T. Doom. "Characterization of 1H NMR spectroscopic data and the generation of synthetic validation sets." <i>Bioinformatics</i> 25:2992-3000, November 2009.</li>
+- (C27) P. Anderson, C. Maynard, N. Hodson, B. Kelly, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "A web-based framework for the distribution of bioinformatics techniques: Orthogonal projection on latent structures and principal component analysis implemented as RESTful web services." <i>Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2009</i>, Cleveland (OH), June 2009.</li>
+- (C26) A. Hanes, M. Raymer, T. Doom, and D. Krane. "A comparison of codon usage trends in prokaryotes." <i>Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2009</i>, Cleveland (OH), June 2009.</li>
+- (J09) P. Anderson, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "Gaussian binning: A new kernel-based method for processing NMR spectroscopic data for metabolomics." <i>Metabolomics</i>, 4:3, September, 2008.</li>
+- (C25) S. Ramachandran and T. Doom. "Validation of the Human ALU phylogeny: a whole genome analysis." <i>Proceedings of BIOCOMP'08</i>, Las Vegas, July 2008.</li>
+- (C24) D. Raiford, D. Krane, T. Doom, and M. Raymer. "A multi-objective genetic algorithms that employs a hybrid approach for isolating codon usage bias indicative of translational efficiency." <i>Proceedings of the Seventh IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2007)</i>, pages 278-285, Cambridge (MA), October 2007.</li>
+- (C23) B. Kelly, P. Anderson, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "A proposed statistical protocol for the analysis of metabolic toxicological data derived from NMR spectroscopy." <em>Proceedings of the Seventh IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2007)</em>, pages 1414-1418, Cambridge (MA), October 2007.</li>
+- (C22) B. Kelly, P. Anderson, N. Reo, N. DelRaso, T. Doom, and M. Raymer. "Comparison of statistical techniques for the analysis of metabolic toxicological data derived from NMR spectroscopy." <i>Proceedings of the Ohio Collaborative Conference on Bioinformatics</i> (OCCBIO) 2007, Oxford (OH), July 2007.</li>
+- (J08) J. Gilder, T. Doom, K. Inman, and D. Krane. "Run-specific limits of detection and quantitation for STR-based DNA testing." <em>Journal of Forensic Sciences</em>, January 2007.</li>
+- (C21) S. Ramachandran, T. Doom, M. Raymer, and D. Krane. "Parsimony based approach to test the Evolving Master Gene hypothesis for human ALU repeats." <em>Proceedings of the 6th IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2006)</em>, Washington D.C., October 2006. (Best Original Research Paper Award, also Best Student Paper Award).</li>
+- (C20) D. Raiford, D. Krane, T. Doom, and M. Raymer. "Isolation and visualization of codon usage biases." <em>Proceedings of the 6th IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2006)</em>, pages 179-182, Washington D.C., October 2006.</li>
+- (J07) E. Heizer, D. Raiford, M. Raymer, T. Doom, R. Miller, and D. Krane. "Amino acid cost and codon usage biases in six prokaryotic genomes: A whole genome analysis." <em>Journal of Molecular Biology and Evolution</em>, Vol. 23, No. 9, pp, 1670-1680, September 2006.</li>
+- (C19) D. Raiford, T. Doom, D. Krane, and M. Raymer. "An Investigation of Codon Usage Bias Including Visualization and Quantification in Organisms Exhibiting Multiple Biases". <em>In Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2006</em>, Athens (OH), June 2006.</li>
+- (C18) S. Ramachandran, T. Doom, M. Raymer, and D. Krane. "ALU elements as time series genomic data." <em>In Proceedings of the Ohio Collaborative Conference on Bioinformatics (OCCBIO) 2006</em>, Athens (OH), June 2006.</li>
+- (J06) D. Paoletti, T. Doom, M. Raymer, and D. Krane. "Assesing the implications for close relatives in the event of similar but non-matching DNA profiles." <em>Jurimetrics</em>, Vol. 46, No. 2, pp. 161-175, Winter 2006.</li>
+- (C17) P. Anderson, D. Raiford, D. Sweeney, T. Doom, and M. Raymer. "Stochastic model of protease-ligand reactions." <em>Proceedings of the 5th IEEE Symposium on Bioinformatics and Bioengineering (BIBE 2005) </em>, Minneapolis, Minnesota, pp 306-310, October 2005.</li>
+- (J05) D. Paoletti, T. Doom, C. Krane, M. Raymer, and D. Krane. "Empirical Analysis of the STR profiles resulting from conceptual mixtures." <em>Journal of Forensic Sciences</em>, Vol. 50, No. 6, pp. 1361-1366, November 2005.</li>
+- (C16) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated KNN classifier optimization with varying similarity measures." <em>Proceedings of the 2005 IEEE Congress on Evolutionary Computation</em>, vol 3, pp. 2514-2521, 2005.</li>
+- (C15) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated knowledge discovery and pattern recognition optimization applied to the biochemistry of protein solvation." <em> Proceedings of ACM Genetic and Evolutionary Computation Conference (GECCO) 2004</em>, Seattle (WA), pp. 426-437, June 2004.</li>
+- (C14) M. Raymer, M. Peterson and T. Doom. "Knowledge discovery in large biological data sets using hybrid classifier/evolutionary algorithms", <em>Proceedings the 36th Symposium on the Interface: Computational Biology and Bioinformatics</em>, Baltimore, MD, May 26 - 29, 2004.</li>
+- (C13) G. Cooper, M. Raymer, T. Doom, D. Krane, and N. Futamura. "Indexing genomic databases". <em>Proceedings of 2004 IEEE international symposium on Bioinformatics and Bioengineering (BIBE) </em>, Taichung (Taiwan), pp. 587-591, May 2004.</li>
+- (C12) D. Burhans, M. DeJohgh, T. Doom, and M. LeBlanc. "Bioinformatics in the undergraduate curriculum: Opportunities for computer science educators." <em>Proceedings of the ACM Special Interest Group on Computer Science Education (SIGCSE) 2004</em>, Norfolk (VA), March 2004.</li>
+- (J04) J. Gilder, S. Ford, T. Doom, M. Raymer, and D. Krane. "Systematic differences in electropherogram peak heights reported by different version of the Genescan (R) software." <em>Journal of Forensic Sciences</em>, pgs. 92-95, Vol 49, No. 1, January 2004.</li>
+- (J03) M. Raymer, T. Doom, L. Kuhn, and W. Punch. "Knowledge Discovery in Medical and Biological Datasets Using a Hybrid Bayes Classifier/Evolutionary Algorithm." <em>IEEE Transactions on Systems, Man, and Cybernetics</em>, Vol. 33, No. 5, October 2003.</li>
+- (J02) T. Doom, M. Raymer, D. Krane, and O. Garcia. "Crossing the interdisciplinary barrier: A baccalaureate computer science option in bioinformatics." <em>IEEE Transactions on Education</em>, Volume 46, No. 3, pp 387-393, August 2003.</li>
+- (C11) J. Gilder, D. Krane, T. Doom and M. Raymer. "Identifying patterns in DNA change." </span></span><em>Proceedings of the 2003 Midwest Artificial Intelligence and Cognitive Science Conference</em><span><span>, Columbus OH, April 2003.</span></span></li>
+- (J01) J. Gilder, M. Peterson, J. Wright, and T. Doom. "A versatile tool for student projects: An ASM programming language for the LEGO mindstorm." <em>ACM Journal on Educational Resources in Computing (JERIC)</em>, III:1, ISSN: 1531-4278, March 2003.</li>
+- (C10) M. Peterson, T. Doom, and M. Raymer. "GA-facilitated cosine classifer optimization with application to the biochemistry of protein-water interactions." <em>Proceedings of the 6th International Conference/Exhibition on High Performance Computing (HPC-Asia 2002)</em>, Banglore (India), December 2002.</li>
+- (C09) T. Doom, M. Raymer, D. Krane, and O. Garcia. "A proposed undergraduate bioinformatics curriculum for computer scientists." <em>Proceedings of the 2002 ACM Special Interest Group on Computer Science Education (SIGCSE 2002)</em>, Covington (KY), February 2002.</li>
+- (C08) J. Gilder, M. Raymer, and T. Doom. "PocketMol: A Molecular Visualization Tool for the PocketPC." <em>2001 IEEE International Symposium on Bioinformatics and Bioengineering (BIBE 2001)</em>, November 2001.</li>
+- (C07) D. Sweeney, J. Alter, M. Raymer, and T. Doom. "Profile Combinatorics for Fragment Selection in Comparative Modeling." <em>2001 IEEE International Symposium on Bioinformatics and Bioengineering (BIBE 2001)</em>, November 2001.</li>
+- (C06) J. White, M.C. Chung, A. Wojcik, and T. Doom. "Efficient algorithms for subcircuit enumeration and classification." <em>Proceedings of the 2001 IEEE Conference on Computer Design</em>, Austin (TX), September 2001.</li>
+- (C05) C. Leighber and T. Doom. "Using output signatures to enhance semantic matching." <em> Proceedings of the 44th IEEE Midwest Symposium on Circuits and Systems</em>, Dayton (OH), August 2001.</li>
+- (C04) T. Doom and O. Garcia. "Bioinformatics: An option in computer science." <em>Proceedings of the 2001 Midwest Artificial Intelligence and Cognitive Science Conference</em>, March 2001.</li>
+- (C03) J. White, A. S. Wojcik, M. Chung, and T. Doom. "Candidate subcircuits for functional module identification in logic circuits." <em>Proceedings of the 2000 Great Lakes Symposium on VLSI</em>, March, 2000.</li>
+- (C02) T. Doom, A. S. Wojcik, and M. Chung. "Design recovery for incomplete combinational logic." <em>Proceedings of the IEEE 1999 Great Lakes Symposium on VLSI</em>, March, 1999.</li>
+- (C01) T. Doom, J. White, A. S. Wojcik, and G. Chisholm. "Identifying high-level components in combinational circuits." <em>Proceedings of the IEEE 1998 Great Lakes Symposium on VLSI</em>, February, 1998.</li>
+
 
 <dl>
 	<dt><b><u>Book chapters, letters, abstracts, posters, and other notable technical communications</u></b></dt>
